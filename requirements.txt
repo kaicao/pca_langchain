@@ -1,0 +1,11 @@
+langchain==0.0.305
+transformers==4.33.3
+pypdf==3.16.2
+chromadb==0.4.13
+accelerate==0.23.0  # required for device_map auto
+sentence-transformers==2.2.2
+#llama-cpp-python==0.2.11    
+# run using CMAKE_ARGS="-DLLAMA_CUBLAS=on" FORCE_CMAKE=1 pip install --upgrade --force-reinstall llama-cpp-python --no-cache-dir
+
+# pytesseract
+pytesseract==0.3.10
