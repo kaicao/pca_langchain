@@ -4,6 +4,7 @@
 - Python 3 installed.
 - Pip 3 installed.
 - Download [all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) into model/all-mpnet-base-v2 folder.
+- Download Llama2 model and update llama2_loader.py LLAMA2_MODEL_PATH with the path to the model.
 
 ## Run
 ### Prepare and build
